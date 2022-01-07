@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grafica", "Grafica\Grafica.csproj", "{4A56F620-4254-4EB0-8D22-99FC7DE7CAE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{48D98FAB-B734-4CC4-AA6F-B9149D24DC22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{B25220E1-18F1-46D5-8B94-D7CC701DCB10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A56F620-4254-4EB0-8D22-99FC7DE7CAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A56F620-4254-4EB0-8D22-99FC7DE7CAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A56F620-4254-4EB0-8D22-99FC7DE7CAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A56F620-4254-4EB0-8D22-99FC7DE7CAE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48D98FAB-B734-4CC4-AA6F-B9149D24DC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D98FAB-B734-4CC4-AA6F-B9149D24DC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D98FAB-B734-4CC4-AA6F-B9149D24DC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D98FAB-B734-4CC4-AA6F-B9149D24DC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25220E1-18F1-46D5-8B94-D7CC701DCB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25220E1-18F1-46D5-8B94-D7CC701DCB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25220E1-18F1-46D5-8B94-D7CC701DCB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25220E1-18F1-46D5-8B94-D7CC701DCB10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9517D4E9-6005-477A-B888-E71127536DCD}
+	EndGlobalSection
+EndGlobal
