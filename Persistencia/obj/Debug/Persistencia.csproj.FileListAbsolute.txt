@@ -1,0 +1,8 @@
+C:\Users\carol\source\repos\Ejercicio1\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\carol\source\repos\Ejercicio1\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\carol\source\repos\Ejercicio1\Persistencia\bin\Debug\MySql.Data.dll
+C:\Users\carol\source\repos\Ejercicio1\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\Ejercicio1\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\Ejercicio1\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\carol\source\repos\Ejercicio1\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\carol\source\repos\Ejercicio1\Persistencia\obj\Debug\Persistencia.pdb

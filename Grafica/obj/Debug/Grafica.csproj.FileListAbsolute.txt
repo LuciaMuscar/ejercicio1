@@ -1,0 +1,16 @@
+C:\Users\carol\source\repos\Ejercicio1\Grafica\bin\Debug\Grafica.exe.config
+C:\Users\carol\source\repos\Ejercicio1\Grafica\bin\Debug\Grafica.exe
+C:\Users\carol\source\repos\Ejercicio1\Grafica\bin\Debug\Grafica.pdb
+C:\Users\carol\source\repos\Ejercicio1\Grafica\bin\Debug\Logica.dll
+C:\Users\carol\source\repos\Ejercicio1\Grafica\bin\Debug\MySql.Data.dll
+C:\Users\carol\source\repos\Ejercicio1\Grafica\bin\Debug\Persistencia.dll
+C:\Users\carol\source\repos\Ejercicio1\Grafica\bin\Debug\Logica.pdb
+C:\Users\carol\source\repos\Ejercicio1\Grafica\bin\Debug\Persistencia.pdb
+C:\Users\carol\source\repos\Ejercicio1\Grafica\obj\Debug\Grafica.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\Ejercicio1\Grafica\obj\Debug\Grafica.Form1.resources
+C:\Users\carol\source\repos\Ejercicio1\Grafica\obj\Debug\Grafica.Properties.Resources.resources
+C:\Users\carol\source\repos\Ejercicio1\Grafica\obj\Debug\Grafica.csproj.GenerateResource.cache
+C:\Users\carol\source\repos\Ejercicio1\Grafica\obj\Debug\Grafica.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\Ejercicio1\Grafica\obj\Debug\Grafica.csproj.CopyComplete
+C:\Users\carol\source\repos\Ejercicio1\Grafica\obj\Debug\Grafica.exe
+C:\Users\carol\source\repos\Ejercicio1\Grafica\obj\Debug\Grafica.pdb

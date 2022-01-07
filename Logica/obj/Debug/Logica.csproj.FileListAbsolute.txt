@@ -1,0 +1,10 @@
+C:\Users\carol\source\repos\Ejercicio1\Logica\bin\Debug\Logica.dll
+C:\Users\carol\source\repos\Ejercicio1\Logica\bin\Debug\Logica.pdb
+C:\Users\carol\source\repos\Ejercicio1\Logica\bin\Debug\MySql.Data.dll
+C:\Users\carol\source\repos\Ejercicio1\Logica\bin\Debug\Persistencia.dll
+C:\Users\carol\source\repos\Ejercicio1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\carol\source\repos\Ejercicio1\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\Ejercicio1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\Ejercicio1\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\carol\source\repos\Ejercicio1\Logica\obj\Debug\Logica.dll
+C:\Users\carol\source\repos\Ejercicio1\Logica\obj\Debug\Logica.pdb
